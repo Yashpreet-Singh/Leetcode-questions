@@ -1,6 +1,6 @@
 -- Write your PostgreSQL query statement below
 
-
+--leetcode
 select customer_id
 from customer
 group by customer_id
